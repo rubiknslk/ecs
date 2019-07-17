@@ -93,5 +93,5 @@
 -   在同一阿里云地域下，采用[关系型云数据库（Relational Database Service）](../../../../cn.zh-CN/云数据库RDS简介/什么是云数据库RDS.md#)作为云服务器ECS的数据库应用是典型的业务访问架构，可极大降低网络延时和公网访问费用，并实现云数据库RDS的最佳性能。云数据库RDS支持多种数据库引擎，包括MySQL、SQL Server、PostgreSQL、PPAS和MariaDB。
 -   在[云市场](https://market.aliyun.com/)获取由第三方服务商提供的基础软件、企业软件、网站建设、代运维、云安全、数据及API、解决方案等相关的各类软件和服务。您也可以成为云市场服务供应商，提供软件应用及服务。更多详情，请参见[云市场文档](https://help.aliyun.com/product/30488.html)。
 
-更多方案，请参见[阿里云解决方案](https://www.aliyun.com/solution/all)。
+更多方案，请参见[阿里云解决方案](https://www.aliyun.com/solution/all)。.
 
